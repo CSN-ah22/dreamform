@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.Container{
+  margin: 0 auto;
+  list-style: none;
+  background-color:darkgrey;
+  width: 50%;
+  height: 50%;
+  padding: 5%;
+}
+.List{
+
+}
+.text{
+  display: inline-block;
+}
